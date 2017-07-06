@@ -1,0 +1,27 @@
+html, body {
+    background-image: url('img/bg.jpg');
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#page{
+    background-color: rgba(0,0,0,0.6);
+    color : rgb(249, 250, 252);
+    height: 100%;
+}
+body
+{
+    background: #222;
+    color: #fff;
+    font-family: Consolas, "Courier New";
+    line-height:1.7
+}
+.container {
+    margin:150px auto;
+    max-width:640px;
+    font-size:14px;
+   }
+span.textToType {
+    text-align: center;
+    color: white;
+}
